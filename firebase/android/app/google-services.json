@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "38021008884",
+    "project_id": "newsappproject-1d9a6",
+    "storage_bucket": "newsappproject-1d9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38021008884:android:6ece19aa27fca6d81a7da1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38021008884-ls47v9mftn0995blett2q2pkddbr7n55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "13f6bdc6d2cd04e4f5bff826f9a622b752ca9b9e"
+          }
+        },
+        {
+          "client_id": "38021008884-ho4450fi81k6ghsck0vbb424gm31037p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdYhfiE94qlc_KEs_mXZMR3yjuycBOGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38021008884-ho4450fi81k6ghsck0vbb424gm31037p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38021008884-5qpft97lopgrmn70tt49a5ckcgg8qr3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38021008884:android:fd596272295584941a7da1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38021008884-ockqmaa6pngho93e9lddpa5ktnlamivr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "13f6bdc6d2cd04e4f5bff826f9a622b752ca9b9e"
+          }
+        },
+        {
+          "client_id": "38021008884-ho4450fi81k6ghsck0vbb424gm31037p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdYhfiE94qlc_KEs_mXZMR3yjuycBOGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38021008884-ho4450fi81k6ghsck0vbb424gm31037p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38021008884-5qpft97lopgrmn70tt49a5ckcgg8qr3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
